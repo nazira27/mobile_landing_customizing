@@ -99,6 +99,9 @@
 }
 
 @media (max-width: 767.98px) {
+    #home:before {
+        background: none
+    }
     .home-three {
         background-color: #2cc6ff;
     }
